@@ -72,12 +72,6 @@ Diseño responsive, estructura clara de servicios y foco en conversión de clien
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nataliadiez&show_icons=true&theme=radical&cache_seconds=86400&hide=prs"
-    alt="GitHub Stats"
-  />
-</p>
 
 <p align="center">
   <img
@@ -86,12 +80,6 @@ Diseño responsive, estructura clara de servicios y foco en conversión de clien
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataliadiez&layout=compact&theme=radical&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
 
 
 ---
