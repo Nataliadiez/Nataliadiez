@@ -73,9 +73,9 @@ Diseño responsive, estructura clara de servicios y foco en conversión de clien
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nataliadiez&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nataliadiez&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataliadiez&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nataliadiez&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nataliadiez&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataliadiez&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
